@@ -21,11 +21,13 @@ For more details on the development of this project, check out the project repor
 
 ## 📷 Images of the Design
 
-### Exploded-View Drawing
-<img src="images/real.jpg? raw=true"/>
-
-### 3D Render of Final Product 
+### Drawing Exploded View
 <img src="images/drawing.jpg? raw=true"/>
 
-### Real Life Exploded View 
+### 3D Render of Final Product 
 <img src="images/cad.jpg? raw=true"/>
+
+### Real Life Exploded View 
+<img src="images/real.jpg? raw=true"/>
+
+
