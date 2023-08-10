@@ -12,7 +12,7 @@ Employing the Engineering Design Process, we framed the problem, generated ideas
 ## 🔨 Key Skills Used
 * Design Thinking
 * 3D Printing
-* 3D Modelling - CAD
+* 3D Modelling - Autodesk Inventor
 * Electronics Design
 * Creative Problem Solving
 
@@ -22,12 +22,18 @@ For more details on the development of this project, check out the project repor
 ## 📷 Images of the Design
 
 ### Drawing Exploded View
+Here is the exploded computer-aided design (CAD) view of the product. Each component is labeled along with a description for it's purpose. 
+
 <img src="images/drawing.jpg? raw=true"/>
 
 ### 3D Render of Final Product 
+This is a 3D render of the final product as design in Autodesk Inventor. This assembly includes the stirring module itself as well as the stir bar retrieval wand.
+
 <img src="images/cad.jpg? raw=true"/>
 
 ### Real Life Exploded View 
+This is the real-life exploded view of the product as it is fully assembled. 
+
 <img src="images/real.jpg? raw=true"/>
 
 
